@@ -12,8 +12,8 @@ _iOS is a trademark of Apple, Inc._
 
 ## Downloads
 
-Please download the package from the [Github release page](https://github.com/playgameservices/play-games-plugin-for-unity/releases).
 
+https://github.com/login/oauth/select_account?allow_signup=false&client_id=3f8b8834a91f0caad392&code
 ## Overview
 
 The Google Play Games plugin for Unity allows you to access the Google Play Games
